@@ -14,14 +14,14 @@ public class FirstJavaClass {
 		int a = 10;
 		int b = 5;
 		int result;
-		result= a + b; // addition
-		System.out.println("Additon result is " + result); //15
+		result = a + b; // addition
+		System.out.println("Additon result is " + result); // 15
 		result = a - b;
-		System.out.println("Substraction result is " + result);//5
+		System.out.println("Substraction result is " + result);// 5
 		result = a * b;
-		System.out.println("Multiplication result is" + result);//50
-		
-		System.out.println("Division result is" + result);//2
+		System.out.println("Multiplication result is" + result);// 50
+
+		System.out.println("Division result is" + result);// 2
 
 	}
 }

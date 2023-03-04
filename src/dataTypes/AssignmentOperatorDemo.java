@@ -9,12 +9,9 @@ public class AssignmentOperatorDemo {
 // a *= 7 means a = a * 7
 // a /= 7 means a = a / 7
 // a %= 7 means a = a%7
-	
+
 	public static void main(String[] args) {
-		
+
 	}
 
-
-
 }
- 
