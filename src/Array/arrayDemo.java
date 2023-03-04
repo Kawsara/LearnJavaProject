@@ -1,7 +1,7 @@
 package Array;
 
 public class arrayDemo {
-
+    
 	public static void main(String[] args) {
 		// declaring array
 		String[] myArray = new String[3];
@@ -9,7 +9,7 @@ public class arrayDemo {
 		myArray[0] = "Selenuim";
 		myArray[1] = "Eclipse";
 		myArray[2] = "Java";
-
+                 // This is one dimentional array
 		System.out.println(myArray[1]);
 
 		for (int i = 0; i < myArray.length; i++) {
